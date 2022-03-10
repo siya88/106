@@ -1,0 +1,21 @@
+
+
+body{
+    background:azure;
+    font-family: 'Hubballi', cursive;
+    text-align: center;}
+
+
+.footer{
+
+position:fixed;
+bottom: 0%;
+width: 100%;
+background-color:aquamarine;
+text-align: center;
+font-size: 20px;
+
+}
+image{
+    size: 2px;
+}
